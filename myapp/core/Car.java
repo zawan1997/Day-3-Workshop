@@ -15,6 +15,10 @@ public class Car implements Controllable;{
          //Constructor to initialise objects
         System.out.println("Inistantiating Car Objects");}
 
+        public static void main(String[] args){
+            
+        }
+
     public String getColour() {
         return colour;
     }
